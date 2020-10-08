@@ -1,7 +1,3 @@
-const express = require('express');
-
-//const app = express()
-
 const axios = require('axios');
 
 const getWebsites = async (req, res) => {
